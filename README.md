@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently working on Deep Learning and Data Science.
-
+💻 I am deeply passionate about harnessing the power of deep learning and computer vision.  
+🔗 Currently, I am contributing my skills at WISERLI.  
+🚀 I have a strong interest in advancing my expertise in Robotics Engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinem-celik-dl/) 
